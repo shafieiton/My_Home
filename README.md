@@ -25,7 +25,7 @@ except Exception as e:
 ```
 
 > where is my laptop ?
-- [+] yes
+- [x] yes
 - [] no
 
 |name |family|id|
