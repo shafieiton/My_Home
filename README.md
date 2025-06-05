@@ -1,7 +1,7 @@
 # hello
 ## and welcome to lospollos hermanos family 
 ### my name is gustavo but you can call me gus !
-** test from git and github **
+**test from git and github**
 - one
 - two
 - three
