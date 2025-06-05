@@ -16,8 +16,7 @@
 > to clear:
 `os.system("cls") or os.system("clear")`
 
-```
-python
+```python
 import os
 try:
   os.system("cls")
