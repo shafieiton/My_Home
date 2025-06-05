@@ -17,6 +17,7 @@
 `os.system("cls") or os.system("clear")`
 
 ```
+python
 import os
 try:
   os.system("cls")
