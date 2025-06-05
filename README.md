@@ -11,7 +11,8 @@
 2. helllo
 3. hello
 
-[vodka](https://www.google.com/url?sa=i&url=https%3A%2F%2Fsweetandsavorymorsels.com%2Fsexy-get-laid-cocktail%2F&psig=AOvVaw16lH3XExT1fgykuEYfQsSE&ust=1749239238312000&source=images&cd=vfe&opi=89978449&ved=0CBQQjRxqFwoTCMDs2pSG240DFQAAAAAdAAAAABAE)
+[vodka](https://sweetandsavorymorsels.com/wp-content/uploads/2022/02/Sexy-Get-Laid-Cocktail-6.jpg)
+
 to clear:'os.system("cls") or os.system("clear")'
 '''
 import os
