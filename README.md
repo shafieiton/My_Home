@@ -11,7 +11,7 @@
 2. helllo
 3. hello
 
-[vodka](https://sweetandsavorymorsels.com/wp-content/uploads/2022/02/Sexy-Get-Laid-Cocktail-6.jpg)
+![vodka](https://sweetandsavorymorsels.com/wp-content/uploads/2022/02/Sexy-Get-Laid-Cocktail-6.jpg)
 
 to clear:'os.system("cls") or os.system("clear")'
 '''
