@@ -14,13 +14,15 @@
 ![vodka](https://sweetandsavorymorsels.com/wp-content/uploads/2022/02/Sexy-Get-Laid-Cocktail-6.jpg)
 
 to clear:`os.system("cls") or os.system("clear")`
-'''
+
+```
 import os
 try:
   os.system("cls")
 except Exception as e:
   os.system("clear")
-'''
+```
+
 > where is my laptop ?
 - [+] yes
 - [] no
