@@ -14,7 +14,7 @@
 ![vodka](https://sweetandsavorymorsels.com/wp-content/uploads/2022/02/Sexy-Get-Laid-Cocktail-6.jpg)
 
 > to clear:
-`os.system("cls") or os.system("clear")`
+`python os.system("cls") or os.system("clear")`
 
 ```python
 import os
